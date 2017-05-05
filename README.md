@@ -1,5 +1,5 @@
 # hello-world
 git gud
 
-ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ
+ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ  
 Vocaloids just saying tettetterette
